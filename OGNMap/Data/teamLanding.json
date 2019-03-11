@@ -1,0 +1,845 @@
+{
+  "matchdId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+  "landing": [
+    {
+      "teamName": "AVANGAR Gaming",
+      "teamID": 17,
+      "players": [
+        {
+          "playerName": "AvG_DieZzz",
+          "playerId": 67,
+          "location": {
+            "x": 196493.96875,
+            "y": 234832.25,
+            "z": 1169.25
+          }
+        },
+        {
+          "playerName": "AvG_0nuqtive",
+          "playerId": 68,
+          "location": {
+            "x": 317152.40625,
+            "y": 250152.0625,
+            "z": 4401.99462890625
+          }
+        },
+        {
+          "playerName": "AvG_MuMiNo",
+          "playerId": 66,
+          "location": {
+            "x": 209214.625,
+            "y": 236504.046875,
+            "z": 1243.763427734375
+          }
+        },
+        {
+          "playerName": "AvG_keeN",
+          "playerId": 65,
+          "location": {
+            "x": 214312.3125,
+            "y": 233474.90625,
+            "z": 1330.8607177734375
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Chiefs Esports Club",
+      "teamID": 4,
+      "players": [
+        {
+          "playerName": "CHF_kritikal",
+          "playerId": 13,
+          "location": {
+            "x": 221574.9375,
+            "y": 352238.5,
+            "z": 4262.841796875
+          }
+        },
+        {
+          "playerName": "CHF_eDGe",
+          "playerId": 14,
+          "location": {
+            "x": 286162.3125,
+            "y": 396462.5625,
+            "z": 286.9429016113281
+          }
+        },
+        {
+          "playerName": "CHF_PforPotato",
+          "playerId": 15,
+          "location": {
+            "x": 227078.515625,
+            "y": 376857.96875,
+            "z": 417.6969909667969
+          }
+        },
+        {
+          "playerName": "CHF_Champzzzz",
+          "playerId": 16,
+          "location": {
+            "x": 224047.046875,
+            "y": 388561.1875,
+            "z": 558.6851806640625
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Crest Gaming Windfall",
+      "teamID": 18,
+      "players": [
+        {
+          "playerName": "CGW_LevArie",
+          "playerId": 70,
+          "location": {
+            "x": 564226.875,
+            "y": 502424.90625,
+            "z": 1099.5908203125
+          }
+        },
+        {
+          "playerName": "CGW_kurad",
+          "playerId": 72,
+          "location": {
+            "x": 584380.1875,
+            "y": 474881.21875,
+            "z": 783.5643920898438
+          }
+        },
+        {
+          "playerName": "CGW_MrYoppy",
+          "playerId": 71,
+          "location": {
+            "x": 629627.3125,
+            "y": 489449.21875,
+            "z": 597.5087890625
+          }
+        },
+        {
+          "playerName": "CGW_MarimoSTAR",
+          "playerId": 69,
+          "location": {
+            "x": 571251.9375,
+            "y": 433209.625,
+            "z": 2951.975830078125
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Crest Gaming Xanadu",
+      "teamID": 5,
+      "players": [
+        {
+          "playerName": "CGX_Shianblue",
+          "playerId": 17,
+          "location": {
+            "x": 113308.328125,
+            "y": 132999.65625,
+            "z": 2617.30908203125
+          }
+        },
+        {
+          "playerName": "CGX_Rio01",
+          "playerId": 19,
+          "location": {
+            "x": 193964.890625,
+            "y": 224699.953125,
+            "z": 1701.30712890625
+          }
+        },
+        {
+          "playerName": "CGX_Aries_",
+          "playerId": 20,
+          "location": {
+            "x": 186828.515625,
+            "y": 222035.921875,
+            "z": 1423.6490478515625
+          }
+        },
+        {
+          "playerName": "CGX_Pureboy",
+          "playerId": 18,
+          "location": {
+            "x": 148023.734375,
+            "y": 209496.640625,
+            "z": 1423.40576171875
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Four Angry Men",
+      "teamID": 1,
+      "players": [
+        {
+          "playerName": "4AM_Aluka",
+          "playerId": 3,
+          "location": {
+            "x": 527802.75,
+            "y": 479977.625,
+            "z": 827.4754028320312
+          }
+        },
+        {
+          "playerName": "4AM_GodV",
+          "playerId": 2,
+          "location": {
+            "x": 535980.1875,
+            "y": 484764,
+            "z": 462.501953125
+          }
+        },
+        {
+          "playerName": "4AM_GuCun",
+          "playerId": 4,
+          "location": {
+            "x": 548705.5,
+            "y": 518161.3125,
+            "z": 1679.8653564453125
+          }
+        },
+        {
+          "playerName": "4AM_CPT",
+          "playerId": 1,
+          "location": {
+            "x": 548989.5625,
+            "y": 523435.6875,
+            "z": 1630.750244140625
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Gen.G BLACK",
+      "teamID": 3,
+      "players": [
+        {
+          "playerName": "BLACK_SexyPIG",
+          "playerId": 10,
+          "location": {
+            "x": 245010.6875,
+            "y": 278553.875,
+            "z": 1302.7000732421875
+          }
+        },
+        {
+          "playerName": "BLACK_Gramatic",
+          "playerId": 9,
+          "location": {
+            "x": 203300.03125,
+            "y": 291489.875,
+            "z": 1393.7308349609375
+          }
+        },
+        {
+          "playerName": "BLACK_YoonRoot",
+          "playerId": 12,
+          "location": {
+            "x": 135008.140625,
+            "y": 302114.53125,
+            "z": 1307.748291015625
+          }
+        },
+        {
+          "playerName": "BLACK_Esther",
+          "playerId": 11,
+          "location": {
+            "x": 163161.0625,
+            "y": 328729.5,
+            "z": 1393.9783935546875
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Gen.G GOLD",
+      "teamID": 16,
+      "players": [
+        {
+          "playerName": "GOLD_Loki",
+          "playerId": 62,
+          "location": {
+            "x": 608270.875,
+            "y": 589905.4375,
+            "z": 279.6420593261719
+          }
+        },
+        {
+          "playerName": "GOLD_Chelator",
+          "playerId": 61,
+          "location": {
+            "x": 628232.75,
+            "y": 604496.75,
+            "z": 312.8082275390625
+          }
+        },
+        {
+          "playerName": "GOLD_SimSn",
+          "playerId": 63,
+          "location": {
+            "x": 602290.75,
+            "y": 588254.0625,
+            "z": 956.6748657226562
+          }
+        },
+        {
+          "playerName": "GOLD_EscA",
+          "playerId": 64,
+          "location": {
+            "x": 555329.1875,
+            "y": 587299.625,
+            "z": 1712.3221435546875
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Ghost Gaming",
+      "teamID": 2,
+      "players": [
+        {
+          "playerName": "Ghost_BALLOC",
+          "playerId": 7,
+          "location": {
+            "x": 325517.6875,
+            "y": 383212.9375,
+            "z": 4266.146484375
+          }
+        },
+        {
+          "playerName": "Ghost_Turtle",
+          "playerId": 6,
+          "location": {
+            "x": 363794.5,
+            "y": 406451.46875,
+            "z": 4071.16357421875
+          }
+        },
+        {
+          "playerName": "Ghost_Pr0phie",
+          "playerId": 5,
+          "location": {
+            "x": 368295.25,
+            "y": 381487.9375,
+            "z": 4510.6279296875
+          }
+        },
+        {
+          "playerName": "Ghost_Miccoy",
+          "playerId": 8,
+          "location": {
+            "x": 377469.25,
+            "y": 433777.125,
+            "z": 3680.510009765625
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Honey Badger Nation",
+      "teamID": 8,
+      "players": [
+        {
+          "playerName": "HBN_w1ckk",
+          "playerId": 30,
+          "location": {
+            "x": 492080.5,
+            "y": 432861.78125,
+            "z": 757.8073120117188
+          }
+        },
+        {
+          "playerName": "HBN_Timid",
+          "playerId": 31,
+          "location": {
+            "x": 543771.6875,
+            "y": 451891.0625,
+            "z": 547.8057861328125
+          }
+        },
+        {
+          "playerName": "HBN_Fastrail",
+          "playerId": 32,
+          "location": {
+            "x": 560888.3125,
+            "y": 485609,
+            "z": 1524.594970703125
+          }
+        },
+        {
+          "playerName": "HBN_Grisly",
+          "playerId": 29,
+          "location": {
+            "x": 514783.40625,
+            "y": 485960.96875,
+            "z": 1068.35791015625
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Made in Thailand",
+      "teamID": 20,
+      "players": [
+        {
+          "playerName": "MiTH_Ezqelusia",
+          "playerId": 79,
+          "location": {
+            "x": 373829.09375,
+            "y": 304417.1875,
+            "z": 352.31488037109375
+          }
+        },
+        {
+          "playerName": "MiTH_SviTT",
+          "playerId": 80,
+          "location": {
+            "x": 407160.15625,
+            "y": 297736.375,
+            "z": 875.4276733398438
+          }
+        },
+        {
+          "playerName": "MiTH_MinORu",
+          "playerId": 78,
+          "location": {
+            "x": 445326.9375,
+            "y": 300328.25,
+            "z": 596.8663330078125
+          }
+        },
+        {
+          "playerName": "MiTH_HoNBoya",
+          "playerId": 77,
+          "location": {
+            "x": 447902.21875,
+            "y": 311830.84375,
+            "z": 987.5521850585938
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Natus Vincere",
+      "teamID": 12,
+      "players": [
+        {
+          "playerName": "NAVI_MOLODOY",
+          "playerId": 47,
+          "location": {
+            "x": 350622.46875,
+            "y": 466884.3125,
+            "z": 697.0984497070312
+          }
+        },
+        {
+          "playerName": "NAVI_iLame",
+          "playerId": 48,
+          "location": {
+            "x": 355718.875,
+            "y": 476553.03125,
+            "z": 714.0421752929688
+          }
+        },
+        {
+          "playerName": "NAVI_ubah",
+          "playerId": 46,
+          "location": {
+            "x": 356297.46875,
+            "y": 477472.3125,
+            "z": 829.4491577148438
+          }
+        },
+        {
+          "playerName": "NAVI_Drainys",
+          "playerId": 45,
+          "location": {
+            "x": 350618.3125,
+            "y": 468286.6875,
+            "z": 387.7235412597656
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Oh My God",
+      "teamID": 14,
+      "players": [
+        {
+          "playerName": "OMG_xiaorong",
+          "playerId": 53,
+          "location": {
+            "x": 385146,
+            "y": 465372.875,
+            "z": 3584.38818359375
+          }
+        },
+        {
+          "playerName": "OMG_silentBT",
+          "playerId": 56,
+          "location": {
+            "x": 384636.3125,
+            "y": 459099.90625,
+            "z": 4906.78271484375
+          }
+        },
+        {
+          "playerName": "OMG_xiaohaixxxx",
+          "playerId": 55,
+          "location": {
+            "x": 384867.6875,
+            "y": 473349.28125,
+            "z": 2870.825927734375
+          }
+        },
+        {
+          "playerName": "OMG_lionkk",
+          "playerId": 54,
+          "location": {
+            "x": 404212.46875,
+            "y": 475472.1875,
+            "z": 3122.003662109375
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Oyun Hizmetleri",
+      "teamID": 11,
+      "players": [
+        {
+          "playerName": "OHM_POLLADERUC",
+          "playerId": 41,
+          "location": {
+            "x": 396282.90625,
+            "y": 355040.9375,
+            "z": 830.3002319335938
+          }
+        },
+        {
+          "playerName": "OHM_MrSedaT",
+          "playerId": 42,
+          "location": {
+            "x": 390740.875,
+            "y": 355502.625,
+            "z": 396.4293212890625
+          }
+        },
+        {
+          "playerName": "OHM_Colorist",
+          "playerId": 44,
+          "location": {
+            "x": 436251.5625,
+            "y": 442100.28125,
+            "z": 2221.057861328125
+          }
+        },
+        {
+          "playerName": "OHM_tmhMM",
+          "playerId": 43,
+          "location": {
+            "x": 449892.4375,
+            "y": 422579.34375,
+            "z": 761.2028198242188
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Pittsburgh Knights",
+      "teamID": 6,
+      "players": [
+        {
+          "playerName": "KNIGHTS_TEXQS",
+          "playerId": 23,
+          "location": {
+            "x": 549728.625,
+            "y": 326811.90625,
+            "z": 2011.2598876953125
+          }
+        },
+        {
+          "playerName": "KNIGHTS_Voxsic",
+          "playerId": 21,
+          "location": {
+            "x": 628144.625,
+            "y": 354906.0625,
+            "z": 1084.80029296875
+          }
+        },
+        {
+          "playerName": "KNIGHTS_Krama",
+          "playerId": 24,
+          "location": {
+            "x": 636099.875,
+            "y": 340301.0625,
+            "z": 1026.3779296875
+          }
+        },
+        {
+          "playerName": "KNIGHTS_Dre",
+          "playerId": 22,
+          "location": {
+            "x": 688792.875,
+            "y": 330393.53125,
+            "z": 1760.7725830078125
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Refund Gaming",
+      "teamID": 7,
+      "players": [
+        {
+          "playerName": "Refund_FunkyM",
+          "playerId": 27,
+          "location": {
+            "x": 364864.6875,
+            "y": 135213,
+            "z": 399.0201416015625
+          }
+        },
+        {
+          "playerName": "Refund_Pino",
+          "playerId": 26,
+          "location": {
+            "x": 372942.4375,
+            "y": 132214.265625,
+            "z": 649.133544921875
+          }
+        },
+        {
+          "playerName": "Refund_MeoU",
+          "playerId": 28,
+          "location": {
+            "x": 368158,
+            "y": 130571.59375,
+            "z": 470.43951416015625
+          }
+        },
+        {
+          "playerName": "Refund_DjChip",
+          "playerId": 25,
+          "location": {
+            "x": 376262.28125,
+            "y": 139997.40625,
+            "z": 334.38018798828125
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Savage Esports",
+      "teamID": 15,
+      "players": [
+        {
+          "playerName": "SAVAGE_Maikzj",
+          "playerId": 57,
+          "location": {
+            "x": 641047.5,
+            "y": 467689.8125,
+            "z": 808.3330688476562
+          }
+        },
+        {
+          "playerName": "SAVAGE_SzylzEN",
+          "playerId": 60,
+          "location": {
+            "x": 686110.4375,
+            "y": 462508.90625,
+            "z": 2076.912109375
+          }
+        },
+        {
+          "playerName": "SAVAGE_Loquix",
+          "playerId": 58,
+          "location": {
+            "x": 651241.625,
+            "y": 497362.75,
+            "z": 471.99017333984375
+          }
+        },
+        {
+          "playerName": "SAVAGE_Ragnar",
+          "playerId": 59,
+          "location": {
+            "x": 653681.625,
+            "y": 347647.34375,
+            "z": 2574.8603515625
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Team Gates",
+      "teamID": 19,
+      "players": [
+        {
+          "playerName": "TG_Mossy",
+          "playerId": 75,
+          "location": {
+            "x": 424194.125,
+            "y": 326585,
+            "z": 1619.14013671875
+          }
+        },
+        {
+          "playerName": "TG_Cillo",
+          "playerId": 76,
+          "location": {
+            "x": 425422.21875,
+            "y": 339560.21875,
+            "z": 680.4739379882812
+          }
+        },
+        {
+          "playerName": "TG_Exko",
+          "playerId": 73,
+          "location": {
+            "x": 474994.46875,
+            "y": 310616.625,
+            "z": 988.3828735351562
+          }
+        },
+        {
+          "playerName": "TG_MORTIFY",
+          "playerId": 74,
+          "location": {
+            "x": 492871.78125,
+            "y": 341164.71875,
+            "z": 2234.553955078125
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "Team Liquid",
+      "teamID": 10,
+      "players": [
+        {
+          "playerName": "Liquid_ibiza",
+          "playerId": 38,
+          "location": {
+            "x": 496865.0625,
+            "y": 287212.09375,
+            "z": 864.4181518554688
+          }
+        },
+        {
+          "playerName": "Liquid_Sambty",
+          "playerId": 40,
+          "location": {
+            "x": 493043.71875,
+            "y": 255867.296875,
+            "z": 1361.7100830078125
+          }
+        },
+        {
+          "playerName": "Liquid_Jeemzz",
+          "playerId": 39,
+          "location": {
+            "x": 563901.75,
+            "y": 287618.71875,
+            "z": 1984.64453125
+          }
+        },
+        {
+          "playerName": "Liquid_Scoom",
+          "playerId": 37,
+          "location": {
+            "x": 567035.375,
+            "y": 265953.84375,
+            "z": 1290.7806396484375
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "WTSG",
+      "teamID": 13,
+      "players": [
+        {
+          "playerName": "WTSG_Gaxy",
+          "playerId": 49,
+          "location": {
+            "x": 158065.9375,
+            "y": 274719.96875,
+            "z": 1484.26611328125
+          }
+        },
+        {
+          "playerName": "WTSG_MiracU",
+          "playerId": 52,
+          "location": {
+            "x": 170873.15625,
+            "y": 279621.78125,
+            "z": 1318.3389892578125
+          }
+        },
+        {
+          "playerName": "WTSG_vard",
+          "playerId": 51,
+          "location": {
+            "x": 141375.53125,
+            "y": 290727.90625,
+            "z": 1312.05078125
+          }
+        },
+        {
+          "playerName": "WTSG_Larsen",
+          "playerId": 50,
+          "location": {
+            "x": 156211.359375,
+            "y": 298977.4375,
+            "z": 1500.99658203125
+          }
+        }
+      ]
+    },
+    {
+      "teamName": "ahq Esports Club",
+      "teamID": 9,
+      "players": [
+        {
+          "playerName": "ahq_W1nner",
+          "playerId": 36,
+          "location": {
+            "x": 332108.8125,
+            "y": 147386.984375,
+            "z": 1920.3944091796875
+          }
+        },
+        {
+          "playerName": "ahq_K3",
+          "playerId": 35,
+          "location": {
+            "x": 330620.25,
+            "y": 144738.078125,
+            "z": 1895.271728515625
+          }
+        },
+        {
+          "playerName": "ahq_Waisun",
+          "playerId": 33,
+          "location": {
+            "x": 333632.28125,
+            "y": 145397.265625,
+            "z": 1888.7674560546875
+          }
+        },
+        {
+          "playerName": "ahq_M4",
+          "playerId": 34,
+          "location": {
+            "x": 340233.34375,
+            "y": 153308.671875,
+            "z": 1889.23486328125
+          }
+        }
+      ]
+    }
+  ]
+}

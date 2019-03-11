@@ -1,0 +1,11 @@
+{
+    "erangel": {
+        "url": "media/images/map_erangel.jpg"
+    },
+    "sanhok": {
+        "url": "media/images/map_sanhok.jpg"
+    },
+    "miramar": {
+        "url": "media/images/map_miramar.jpg"
+    }
+}

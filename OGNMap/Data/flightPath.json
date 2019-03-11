@@ -1,0 +1,14 @@
+{
+  "matchName": null,
+  "matchId": 1,
+  "flightPathStart": {
+    "x": 115224.883,
+    "y": 126929.609,
+    "z": 150088
+  },
+  "flightPathEnd": {
+    "x": 649967.25,
+    "y": 452205.6,
+    "z": 150088
+  }
+}

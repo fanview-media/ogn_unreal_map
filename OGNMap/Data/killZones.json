@@ -1,0 +1,914 @@
+[
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CHF_Champzzzz",
+    "playerId": 16,
+    "teamId": 4,
+    "health": 0,
+    "location": {
+      "x": 488993.781,
+      "y": 459349.344,
+      "z": 1734.57
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OHM_MrSedaT",
+    "playerId": 42,
+    "teamId": 11,
+    "health": 0,
+    "location": {
+      "x": 638440.9,
+      "y": 357150.281,
+      "z": 2533.03
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "ahq_K3",
+    "playerId": 35,
+    "teamId": 9,
+    "health": 0,
+    "location": {
+      "x": 671185,
+      "y": 336387.156,
+      "z": 4293.31
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "WTSG_Larsen",
+    "playerId": 50,
+    "teamId": 13,
+    "health": 0,
+    "location": {
+      "x": 612949.25,
+      "y": 337227.031,
+      "z": -40.9699974
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "GOLD_Chelator",
+    "playerId": 61,
+    "teamId": 16,
+    "health": 0,
+    "location": {
+      "x": 674349.438,
+      "y": 446966.719,
+      "z": 634.829956
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "ahq_M4",
+    "playerId": 34,
+    "teamId": 9,
+    "health": 0,
+    "location": {
+      "x": 682270,
+      "y": 388746.2,
+      "z": 1786.426
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "MiTH_Ezqelusia",
+    "playerId": 79,
+    "teamId": 20,
+    "health": 0,
+    "location": {
+      "x": 633110.75,
+      "y": 471371.5,
+      "z": 398.414856
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGW_kurad",
+    "playerId": 72,
+    "teamId": 18,
+    "health": 0,
+    "location": {
+      "x": 706430.438,
+      "y": 480874.2,
+      "z": 394.3
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "SAVAGE_Ragnar",
+    "playerId": 59,
+    "teamId": 15,
+    "health": 0,
+    "location": {
+      "x": 709586.1,
+      "y": 409272.9,
+      "z": 2938.32983
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "BLACK_YoonRoot",
+    "playerId": 12,
+    "teamId": 3,
+    "health": 0,
+    "location": {
+      "x": 658501.438,
+      "y": 306494.9,
+      "z": 1767.1
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "NAVI_Drainys",
+    "playerId": 45,
+    "teamId": 12,
+    "health": 0,
+    "location": {
+      "x": 670923.4,
+      "y": 488662.1,
+      "z": 416.75
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "BLACK_SexyPIG",
+    "playerId": 10,
+    "teamId": 3,
+    "health": 0,
+    "location": {
+      "x": 676860.4,
+      "y": 338089,
+      "z": 4517.88
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Refund_Pino",
+    "playerId": 26,
+    "teamId": 7,
+    "health": 0,
+    "location": {
+      "x": 642476.438,
+      "y": 410370.5,
+      "z": 10064.26
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGW_LevArie",
+    "playerId": 70,
+    "teamId": 18,
+    "health": 0,
+    "location": {
+      "x": 695341.562,
+      "y": 470494.156,
+      "z": 667.49
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGW_MarimoSTAR",
+    "playerId": 69,
+    "teamId": 18,
+    "health": 0,
+    "location": {
+      "x": 694224.25,
+      "y": 466967.031,
+      "z": 694.18
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "TG_Mossy",
+    "playerId": 75,
+    "teamId": 19,
+    "health": 0,
+    "location": {
+      "x": 685492.938,
+      "y": 502772.6,
+      "z": 76.2999954
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "TG_Exko",
+    "playerId": 73,
+    "teamId": 19,
+    "health": 0,
+    "location": {
+      "x": 718945.4,
+      "y": 468132.3,
+      "z": 327.44
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGW_MrYoppy",
+    "playerId": 71,
+    "teamId": 18,
+    "health": 0,
+    "location": {
+      "x": 712783.562,
+      "y": 463773.031,
+      "z": 424.449982
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "HBN_Timid",
+    "playerId": 31,
+    "teamId": 8,
+    "health": 0,
+    "location": {
+      "x": 638882.6,
+      "y": 453608.281,
+      "z": 2915.48
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "BLACK_Esther",
+    "playerId": 11,
+    "teamId": 3,
+    "health": 0,
+    "location": {
+      "x": 687475.562,
+      "y": 360539.344,
+      "z": 1088.74
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Refund_DjChip",
+    "playerId": 25,
+    "teamId": 7,
+    "health": 0,
+    "location": {
+      "x": 645469.6,
+      "y": 424701.844,
+      "z": 10182.97
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OHM_Colorist",
+    "playerId": 44,
+    "teamId": 11,
+    "health": 0,
+    "location": {
+      "x": 635091.562,
+      "y": 423237.781,
+      "z": 9803.56
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OMG_xiaohaixxxx",
+    "playerId": 55,
+    "teamId": 14,
+    "health": 0,
+    "location": {
+      "x": 714629.7,
+      "y": 442616.469,
+      "z": 2037.94
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "WTSG_Gaxy",
+    "playerId": 49,
+    "teamId": 13,
+    "health": 0,
+    "location": {
+      "x": 714690,
+      "y": 444060.2,
+      "z": 2037.94
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "TG_MORTIFY",
+    "playerId": 74,
+    "teamId": 19,
+    "health": 0,
+    "location": {
+      "x": 718057.25,
+      "y": 468849.6,
+      "z": 273.61
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CHF_PforPotato",
+    "playerId": 15,
+    "teamId": 4,
+    "health": 0,
+    "location": {
+      "x": 639217.562,
+      "y": 450990.625,
+      "z": 3733.36987
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "ahq_W1nner",
+    "playerId": 36,
+    "teamId": 9,
+    "health": 0,
+    "location": {
+      "x": 682923.562,
+      "y": 384777.156,
+      "z": 1697.25
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OHM_POLLADERUC",
+    "playerId": 41,
+    "teamId": 11,
+    "health": 0,
+    "location": {
+      "x": 688789.25,
+      "y": 371198.469,
+      "z": 352.75
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "HBN_Fastrail",
+    "playerId": 32,
+    "teamId": 8,
+    "health": 0,
+    "location": {
+      "x": 653145,
+      "y": 461960.062,
+      "z": 2386.14
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "WTSG_vard",
+    "playerId": 51,
+    "teamId": 13,
+    "health": 0,
+    "location": {
+      "x": 713858,
+      "y": 444702.719,
+      "z": 2037.94
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Refund_FunkyM",
+    "playerId": 27,
+    "teamId": 7,
+    "health": 0,
+    "location": {
+      "x": 649784.6,
+      "y": 419596.9,
+      "z": 10505.35
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Refund_MeoU",
+    "playerId": 28,
+    "teamId": 7,
+    "health": 0,
+    "location": {
+      "x": 689466.3,
+      "y": 455998.9,
+      "z": 722.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "WTSG_MiracU",
+    "playerId": 52,
+    "teamId": 13,
+    "health": 0,
+    "location": {
+      "x": 719515.25,
+      "y": 458463.75,
+      "z": 1318.41992
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "ahq_Waisun",
+    "playerId": 33,
+    "teamId": 9,
+    "health": 0,
+    "location": {
+      "x": 691240.3,
+      "y": 411109.625,
+      "z": 1662.52
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "MiTH_MinORu",
+    "playerId": 78,
+    "teamId": 20,
+    "health": 0,
+    "location": {
+      "x": 683475.2,
+      "y": 471845.781,
+      "z": 288.25
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "NAVI_iLame",
+    "playerId": 48,
+    "teamId": 12,
+    "health": 0,
+    "location": {
+      "x": 687414.7,
+      "y": 475220.562,
+      "z": 368.819977
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "TG_Cillo",
+    "playerId": 76,
+    "teamId": 19,
+    "health": 0,
+    "location": {
+      "x": 700254.1,
+      "y": 473125.438,
+      "z": 290.72998
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "MiTH_HoNBoya",
+    "playerId": 77,
+    "teamId": 20,
+    "health": 0,
+    "location": {
+      "x": 686818.7,
+      "y": 474634.375,
+      "z": 320.83
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "MiTH_SviTT",
+    "playerId": 80,
+    "teamId": 20,
+    "health": 0,
+    "location": {
+      "x": 686468.8,
+      "y": 474856.875,
+      "z": 458.15
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "KNIGHTS_Dre",
+    "playerId": 22,
+    "teamId": 6,
+    "health": 0,
+    "location": {
+      "x": 656098.3,
+      "y": 441907.2,
+      "z": 3623.36987
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "KNIGHTS_TEXQS",
+    "playerId": 23,
+    "teamId": 6,
+    "health": 0,
+    "location": {
+      "x": 654908.1,
+      "y": 445092.469,
+      "z": 3539.96
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "KNIGHTS_Krama",
+    "playerId": 24,
+    "teamId": 6,
+    "health": 0,
+    "location": {
+      "x": 656446.8,
+      "y": 445154.156,
+      "z": 3439.04
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "HBN_Grisly",
+    "playerId": 29,
+    "teamId": 8,
+    "health": 0,
+    "location": {
+      "x": 677701.8,
+      "y": 474929.219,
+      "z": 289.449982
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "AvG_DieZzz",
+    "playerId": 67,
+    "teamId": 17,
+    "health": 0,
+    "location": {
+      "x": 685094.6,
+      "y": 431775.469,
+      "z": 759.519958
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "BLACK_Gramatic",
+    "playerId": 9,
+    "teamId": 3,
+    "health": 0,
+    "location": {
+      "x": 676071.1,
+      "y": 423519.219,
+      "z": 1927.94
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "AvG_keeN",
+    "playerId": 65,
+    "teamId": 17,
+    "health": 0,
+    "location": {
+      "x": 678534.562,
+      "y": 424716.344,
+      "z": 1735.22
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGX_Pureboy",
+    "playerId": 18,
+    "teamId": 5,
+    "health": 0,
+    "location": {
+      "x": 673918.4,
+      "y": 427166.062,
+      "z": 2358.41
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "NAVI_MOLODOY",
+    "playerId": 47,
+    "teamId": 12,
+    "health": 0,
+    "location": {
+      "x": 686778,
+      "y": 474659.2,
+      "z": 402.16
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "NAVI_ubah",
+    "playerId": 46,
+    "teamId": 12,
+    "health": 0,
+    "location": {
+      "x": 681400.938,
+      "y": 471808.781,
+      "z": 309.69
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "KNIGHTS_Voxsic",
+    "playerId": 21,
+    "teamId": 6,
+    "health": 0,
+    "location": {
+      "x": 670443.3,
+      "y": 447082.75,
+      "z": 922.61
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "AvG_MuMiNo",
+    "playerId": 66,
+    "teamId": 17,
+    "health": 0,
+    "location": {
+      "x": 690540.938,
+      "y": 451718.062,
+      "z": 681.69
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGX_Aries_",
+    "playerId": 20,
+    "teamId": 5,
+    "health": 0,
+    "location": {
+      "x": 682436,
+      "y": 438022.375,
+      "z": 527.2
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "AvG_0nuqtive",
+    "playerId": 68,
+    "teamId": 17,
+    "health": 0,
+    "location": {
+      "x": 691865.438,
+      "y": 438352.469,
+      "z": 550
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OHM_tmhMM",
+    "playerId": 43,
+    "teamId": 11,
+    "health": 0,
+    "location": {
+      "x": 676498.1,
+      "y": 449747.656,
+      "z": 879.829956
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "GOLD_EscA",
+    "playerId": 64,
+    "teamId": 16,
+    "health": 0,
+    "location": {
+      "x": 682425,
+      "y": 457683.5,
+      "z": 694.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "HBN_w1ckk",
+    "playerId": 30,
+    "teamId": 8,
+    "health": 0,
+    "location": {
+      "x": 679139.5,
+      "y": 463656.219,
+      "z": 607.649963
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGX_Rio01",
+    "playerId": 19,
+    "teamId": 5,
+    "health": 0,
+    "location": {
+      "x": 684652.25,
+      "y": 443105.2,
+      "z": 560.69
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "GOLD_Loki",
+    "playerId": 62,
+    "teamId": 16,
+    "health": 0,
+    "location": {
+      "x": 677503.438,
+      "y": 456948.3,
+      "z": 616.25
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Liquid_ibiza",
+    "playerId": 38,
+    "teamId": 10,
+    "health": 0,
+    "location": {
+      "x": 696311.8,
+      "y": 456047.844,
+      "z": 692.519958
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Liquid_Jeemzz",
+    "playerId": 39,
+    "teamId": 10,
+    "health": 0,
+    "location": {
+      "x": 695296.3,
+      "y": 456262.469,
+      "z": 694.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "GOLD_SimSn",
+    "playerId": 63,
+    "teamId": 16,
+    "health": 0,
+    "location": {
+      "x": 683449.2,
+      "y": 455770.625,
+      "z": 675.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CHF_kritikal",
+    "playerId": 13,
+    "teamId": 4,
+    "health": 0,
+    "location": {
+      "x": 698427.7,
+      "y": 448399.438,
+      "z": 669.1
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CHF_eDGe",
+    "playerId": 14,
+    "teamId": 4,
+    "health": 0,
+    "location": {
+      "x": 698425.438,
+      "y": 448380.9,
+      "z": 650.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Liquid_Sambty",
+    "playerId": 40,
+    "teamId": 10,
+    "health": 0,
+    "location": {
+      "x": 695057.1,
+      "y": 455885.281,
+      "z": 694.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "Liquid_Scoom",
+    "playerId": 37,
+    "teamId": 10,
+    "health": 0,
+    "location": {
+      "x": 694495,
+      "y": 455885.062,
+      "z": 694.17
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OMG_lionkk",
+    "playerId": 54,
+    "teamId": 14,
+    "health": 0,
+    "location": {
+      "x": 696292.9,
+      "y": 456042.469,
+      "z": 692.63
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OMG_silentBT",
+    "playerId": 56,
+    "teamId": 14,
+    "health": 0,
+    "location": {
+      "x": 695891.9,
+      "y": 457059.469,
+      "z": 722.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "OMG_xiaorong",
+    "playerId": 53,
+    "teamId": 14,
+    "health": 0,
+    "location": {
+      "x": 695983.75,
+      "y": 455741.156,
+      "z": 673.36
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "SAVAGE_Loquix",
+    "playerId": 58,
+    "teamId": 15,
+    "health": 0,
+    "location": {
+      "x": 689234.438,
+      "y": 460085.156,
+      "z": 694.24
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "4AM_GodV",
+    "playerId": 2,
+    "teamId": 1,
+    "health": 0,
+    "location": {
+      "x": 694074.8,
+      "y": 453183.125,
+      "z": 670.51
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "SAVAGE_SzylzEN",
+    "playerId": 60,
+    "teamId": 15,
+    "health": 0,
+    "location": {
+      "x": 692712.3,
+      "y": 455889.156,
+      "z": 694.26
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "SAVAGE_Maikzj",
+    "playerId": 57,
+    "teamId": 15,
+    "health": 0,
+    "location": {
+      "x": 688809.7,
+      "y": 456037.344,
+      "z": 722.19
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "4AM_Aluka",
+    "playerId": 3,
+    "teamId": 1,
+    "health": 0,
+    "location": {
+      "x": 690689.4,
+      "y": 451080.781,
+      "z": 681.79
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "4AM_CPT",
+    "playerId": 1,
+    "teamId": 1,
+    "health": 0,
+    "location": {
+      "x": 690299.8,
+      "y": 450899.219,
+      "z": 681.69
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "4AM_GuCun",
+    "playerId": 4,
+    "teamId": 1,
+    "health": 0,
+    "location": {
+      "x": 690067.4,
+      "y": 450206.9,
+      "z": 681.69
+    }
+  },
+  {
+    "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+    "playerName": "CGX_Shianblue",
+    "playerId": 17,
+    "teamId": 5,
+    "health": 0,
+    "location": {
+      "x": 687985.9,
+      "y": 445297.344,
+      "z": 664.42
+    }
+  }
+]

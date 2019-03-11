@@ -1,0 +1,15 @@
+OGNMap/Binaries
+OGNMap/DerivedDataCache
+OGNMap/Intermediate
+OGNMap/Saved
+resources
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace

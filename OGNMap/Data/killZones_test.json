@@ -1,0 +1,93 @@
+[
+    {
+        "Name": "0",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "CHF_Champzzzz",
+        "playerId": 16,
+        "teamId": 4,
+        "health": 0,
+        "location": {
+            "x": 488993.781,
+            "y": 459349.344,
+            "z": 1734.57
+        }
+    },
+    {
+        "Name": "1",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "OHM_MrSedaT",
+        "playerId": 42,
+        "teamId": 11,
+        "health": 0,
+        "location": {
+            "x": 638440.9,
+            "y": 357150.281,
+            "z": 2533.03
+        }
+    },
+    {
+        "Name": "2",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "ahq_K3",
+        "playerId": 35,
+        "teamId": 9,
+        "health": 0,
+        "location": {
+            "x": 671185,
+            "y": 336387.156,
+            "z": 4293.31
+        }
+    },
+    {
+        "Name": "3",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "WTSG_Larsen",
+        "playerId": 50,
+        "teamId": 13,
+        "health": 0,
+        "location": {
+            "x": 612949.25,
+            "y": 337227.031,
+            "z": -40.9699974
+        }
+    },
+    {
+        "Name": "4",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "GOLD_Chelator",
+        "playerId": 61,
+        "teamId": 16,
+        "health": 0,
+        "location": {
+            "x": 674349.438,
+            "y": 446966.719,
+            "z": 634.829956
+        }
+    },
+    {
+        "Name": "5",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "ahq_M4",
+        "playerId": 34,
+        "teamId": 9,
+        "health": 0,
+        "location": {
+            "x": 682270,
+            "y": 388746.2,
+            "z": 1786.426
+        }
+    },
+    {
+        "Name": "6",
+        "matchId": "955750c6-c316-4f28-9593-6a82a2f15a25",
+        "playerName": "MiTH_Ezqelusia",
+        "playerId": 79,
+        "teamId": 20,
+        "health": 0,
+        "location": {
+            "x": 633110.75,
+            "y": 471371.5,
+            "z": 398.414856
+        }
+    }
+  ]
